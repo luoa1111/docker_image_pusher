@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 mysql:5.7
- redis
+redis
+kibana:7.4.2
