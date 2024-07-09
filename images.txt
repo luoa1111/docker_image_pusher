@@ -8,3 +8,4 @@
 mysql:5.7
 redis
 kibana:7.4.2
+nginx:1.10
